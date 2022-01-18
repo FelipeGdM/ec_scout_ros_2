@@ -1,0 +1,9 @@
+[submodule "src/scout_ros2"]
+	path = src/scout_ros2
+	url = git@github.com:westonrobot/scout_ros2.git
+[submodule "src/ugv_sdk"]
+	path = src/ugv_sdk
+	url = git@github.com:westonrobot/ugv_sdk.git
+[submodule "src/tuda_workspace_scripts"]
+	path = src/tuda_workspace_scripts
+	url = git@github.com:StefanFabian/tuda_workspace_scripts.git
