@@ -7,3 +7,12 @@
 [submodule "src/tuda_workspace_scripts"]
 	path = src/tuda_workspace_scripts
 	url = git@github.com:StefanFabian/tuda_workspace_scripts.git
+[submodule "src/flir_gige"]
+	path = src/flir_gige
+	url = git@github.com:FelipeGdM/flir_gige.git
+[submodule "src/er_gstreamer_camera"]
+	path = src/er_gstreamer_camera
+	url = git@git.sim.informatik.tu-darmstadt.de:hector/er_gstreamer_camera.git
+[submodule "src/bluespace_ai_xsens_ros_mti_driver"]
+	path = src/bluespace_ai_xsens_ros_mti_driver
+	url = git@github.com:bluespace-ai/bluespace_ai_xsens_ros_mti_driver.git
